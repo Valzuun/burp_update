@@ -7,10 +7,14 @@ This ist a simple script for semi-automation
   
 All you have to do:  
   
-one time, before first use:  
-edit downloadfolder in Line 6  
+**One time, before first use:  **
+  - download the script
+- edit downloadfolder in Line 6
+ - make it executable (chmod +x)
+  - store where you want (suggest: /etc/burp_update)  
   
-Every time you want update your version:  
+  
+**Every time you want update your version:  **
 - download burpsuite (jar) in your download-folder (Line 6)  
 - change name to burpsuite  
 - run the this script  
