@@ -1,4 +1,4 @@
-# burp_update (V1.0)
+# burp_update (V1.1)
 
 You are tired by update burpsuite (Linux) ?  
 Too much steps to remember ?  
@@ -19,3 +19,5 @@ All you have to do:
 - change name to burpsuite  
 - run the this script  
 
+Warning:
+deletes /usr/bin/burpduite.old without any confirmation
